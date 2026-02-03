@@ -157,9 +157,9 @@ The database follows a normalized structure with clear entity relationships:
 
 ### Source Files
 
-1. `LibraryManagementscript.sql` — Database schema creation script
-2. `LibraryManagementviews.sql` — View definitions and queries
-3. `LibraryManagementER.pdf` — Entity-relationship diagram
+1. `schema.sql` — Database schema creation script
+2. `views.sql` — View definitions and queries
+3. `er-diagram.pdf` — Entity-relationship diagram
 
 ---
 
