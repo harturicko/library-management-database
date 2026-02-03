@@ -151,7 +151,7 @@ The database follows a normalized structure with clear entity relationships:
 - **One-to-Many:** Books → Inventory, Members → Loans, Members → Reviews
 - **Many-to-Many:** Books ↔ Authors (via book_authors), Books ↔ Categories (via book_categories)
 
-*See attached ER diagram (LibraryManagementER.pdf)*
+*See attached ER diagram (er-diagram.pdf)*
 
 ---
 
