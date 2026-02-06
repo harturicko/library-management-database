@@ -1,6 +1,6 @@
 # Artur Omelian — Data Engineering Portfolio
 
-**Email:** harturicko@gmail.com | **LinkedIn:** linkedin.com/in/harturicko | **Location:** Warsaw, PL
+**Email:** harturicko@gmail.com | **LinkedIn:** linkedin.com/in/harturicko |
 
 ---
 
